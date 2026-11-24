@@ -1,0 +1,6 @@
+{
+  "name": "Kampüs WipeCode",
+  "description": "Öğrenci penceresinden WipeCoding rehberi, Rol + Görev + Prompt formülü, DDoS güvenlik kalkanı ve sıfır kasma odaklı modern web mimarisi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
